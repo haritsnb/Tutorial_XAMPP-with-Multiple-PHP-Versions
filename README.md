@@ -6,7 +6,7 @@
 
 > **Sebelum Memulai**
 >
-> - Download XAMPP (tutorial ini menggunakan XAMPP v3.3.0 + PHP v7.4.23 )
+> - Download XAMPP (tutorial ini menggunakan XAMPP 7.4.33 / PHP 7.4.33 )
 >
 >   ```
 >   https://www.apachefriends.org/download.html
