@@ -6,13 +6,13 @@
 
 > **Sebelum Memulai**
 >
-> - Download XAMPP versi 7.4.33 / PHP 7.4.33
+> - Download `XAMPP 7.4.33 / PHP 7.4.33`
 >
 >   ```
 >   https://www.apachefriends.org/download.html
 >   ```
 >
-> - Download `PHP 5.6.40` dan versi 8
+> - Download `PHP 5.6.40` dan `PHP 8.1.12`
 >   ```
 >   https://www.php.net/downloads
 >   ```
