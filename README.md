@@ -12,7 +12,7 @@
 >   https://www.apachefriends.org/download.html
 >   ```
 >
-> - Download `PHP 5.6.40` dan `PHP 8.1.12`
+> - Download `PHP 5.6.40` dan `PHP 8.1.11`
 >   ```
 >   https://www.php.net/downloads
 >   ```
