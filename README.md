@@ -16,5 +16,6 @@
 >   ```
 >   https://windows.php.net/downloads/releases/archives/
 >   ```
+>   Pilih saja versi thread safe dan pastikan juga memilih versi yang sesuai dengan sistem operasi kamu (x64 atau x32)
 
 ##
