@@ -4,7 +4,7 @@
 
 # 🇮🇩 - Menjalankan beberapa versi PHP sekaligus dalam satu aplikasi XAMPP
 
-> **Persiapan**
+**PERSIAPAN**
 >
 > - Download `XAMPP 7.4.33 / PHP 7.4.33`
 >
@@ -18,7 +18,7 @@
 >   ```
 >   Pilih saja versi thread safe dan pastikan juga memilih versi yang sesuai dengan sistem operasi kamu (x64 atau x32)
 
-> **Ketentuan**
+**KETENTUAN**
 >
 > - Jika saat ini menggunakan PHP 8.1.11, maka bisa menginstal semua versi php yang ada dibawah versi 8 (PHP 8.1.11 hingga PHP 5 ke bawah).
 > - Jika saat ini menggunakan PHP 7.4.32, maka bisa menginstal semua versi php yang ada dibawah versi 7 final (PHP 7.4.32 hingga PHP 5 ke bawah).
