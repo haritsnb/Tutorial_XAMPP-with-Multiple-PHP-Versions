@@ -1,8 +1,8 @@
-# 🇺🇸 - Run multiple PHP versions at once in one XAMPP application
+# 🇺🇸 - Running multiple PHP versions in one XAMPP application
 
 ---
 
-# 🇮🇩 - Jalankan beberapa versi PHP sekaligus dalam satu aplikasi XAMPP
+# 🇮🇩 - Menjalankan beberapa versi PHP sekaligus dalam satu aplikasi XAMPP
 
 > **Sebelum Memulai**
 >
@@ -14,7 +14,7 @@
 >
 > - Download `PHP 5.6.40` dan `PHP 8.1.11`
 >   ```
->   https://www.php.net/downloads
+>   https://windows.php.net/downloads/releases/archives/
 >   ```
 
 ##
